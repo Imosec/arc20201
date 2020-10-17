@@ -3,18 +3,17 @@ Content-Type: application/json
 Accept: application/json
 
 {
-    "medida": "ideia",
+    "medida": "media",
     "marcadores": [
-        {"local": "quarto"},
-        {"personagem": "Lucas"},
-        {"acao": "sonhando"},
+        {"local": "ifsc"},
+        {"acao": "olhando"},
          {"nome": "lucas.bernardo"},
           {"perfil": "aluno"}
     ],
     "valores": [
-        {"latitude": -27.6084177},
-        {"longitude": -48.6354691},
-        {"altitude": 80}
+        {"ier": -5},
+        {"tip": 8},
+        {"arc": 8}
     ]
     
 }
