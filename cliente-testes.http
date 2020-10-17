@@ -10,13 +10,16 @@ Accept: application/json
     "marcadores": [
         {"local": "quarto"},
         {"personagem": "Matias"},
-        {"acao": "sonhando"}
+        {"acao": "sonhando"},
+         {"nome": "lucas.bernardo"},
+          {"perfil": "aluno"}
     ],
     "valores": [
         {"latitude": -27.6084177},
         {"longitude": -48.6354691},
         {"altitude": 80}
     ]
+    
 }
 
 # ideia,local=quarto,personagem=Matias,acao=sonhando latitude=-27,longitude=-48,altitude=80

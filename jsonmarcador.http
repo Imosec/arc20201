@@ -1,0 +1,20 @@
+POST http://localhost:5000/gravar
+Content-Type: application/json
+Accept: application/json
+
+{
+    "medida": "ideia",
+    "marcadores": [
+        {"local": "quarto"},
+        {"personagem": "Lucas"},
+        {"acao": "sonhando"},
+         {"nome": "lucas.bernardo"},
+          {"perfil": "aluno"}
+    ],
+    "valores": [
+        {"latitude": -27.6084177},
+        {"longitude": -48.6354691},
+        {"altitude": 80}
+    ]
+    
+}
